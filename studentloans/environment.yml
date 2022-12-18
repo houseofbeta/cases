@@ -1,0 +1,7 @@
+name: case
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - ipykernel
+  - matplotlib
